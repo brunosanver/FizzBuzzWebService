@@ -1,0 +1,10 @@
+c:\users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\bin\FizzBuzzWebService.dll.config
+c:\users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\bin\FizzBuzzWebService.dll
+c:\users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\bin\FizzBuzzWebService.pdb
+c:\users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\obj\Debug\FizzBuzzWebService.csproj.CoreCompileInputs.cache
+c:\users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\obj\Debug\FizzBuzzWebService.dll
+c:\users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\obj\Debug\FizzBuzzWebService.pdb
+C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\bin\log4net.dll
+C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\bin\log4net.xml
+C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\obj\Debug\FizzBuzzWebService.csproj.CopyComplete
+C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\obj\Debug\FizzBuzzWebService.csprojAssemblyReference.cache

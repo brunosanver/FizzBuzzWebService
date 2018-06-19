@@ -1,0 +1,347 @@
+00:01:15,488 [11] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+00:31:23,753 [13] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+00:38:27,973 [11] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+00:44:35,879 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+00:49:13,937 [11] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+00:49:41,492 [11] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+00:53:46,996 [11] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+00:54:06,484 [11] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+00:59:38,277 [9] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+01:15:50,543 [11] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+01:19:15,063 [11] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+01:19:22,687 [13] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+01:19:29,487 [13] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+01:19:37,069 [13] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+01:20:25,554 [11] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+01:21:25,178 [11] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+01:22:34,045 [11] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+09:48:31,385 [14] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+09:52:12,598 [14] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+09:56:44,663 [14] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(String value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 40
+10:28:03,441 [15] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 37
+10:45:48,224 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 37
+11:00:46,826 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 37
+11:06:48,405 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 37
+11:14:56,879 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 37
+12:26:35,021 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 51
+12:31:15,952 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 51
+12:57:20,213 [13] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 57
+13:08:38,280 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 57
+13:35:58,502 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 51
+13:40:28,035 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 52
+13:40:41,497 [17] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 52
+13:40:50,161 [17] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 52
+13:43:08,021 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - System.UnauthorizedAccessException: Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at FizzBuzzWebService.FunctionCollections.WriteToAFile(String sequence) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\FunctionCollections.cs:line 14
+   at FizzBuzzWebService.WCFFizzBuzzService.GetData(Int32 value) in C:\Users\capol_000\Source\Repos\FizzBuzzWebService\FizzBuzzWebService\WCFFizzBuzzService.svc.cs:line 52
+13:45:55,147 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+13:47:38,493 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+13:49:24,142 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+13:50:53,812 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+13:54:41,747 [12] FizzBuzzWebService.WCFFizzBuzzService ERROR - Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+13:57:12,668 [17] FizzBuzzWebService.WCFFizzBuzzService ERROR - Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.
+17:52:32,139 [9] FizzBuzzWebService.WCFFizzBuzzService ERROR - Access to the path 'C:\Users\capol_000\Source\Repos\FizzBuzzWebService\list-registry.txt' is denied.

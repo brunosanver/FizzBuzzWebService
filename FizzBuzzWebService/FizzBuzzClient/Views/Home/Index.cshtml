@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "FizzBuzz Game";
+}
+<br/>
+<h2>
+    @ViewBag.Welcome
+</h2>
+<h3>
+    @ViewBag.Message
+</h3>
+<h5 style="margin-top:30px;margin-bottom:15px;">
+    @ViewBag.Instruction
+</h5>
+<br/>
+<div>
+    <form action="ShowNumbers" method="post">
+        Enter number :&emsp; <input type="text" id="StartNumber" name="StartNumber" />
+        <input id="Submit" name="Submit" type="submit" />
+    </form>
+</div>
+<br/>
+<div style="height:9px;font-weight:bold;">
+    <span style="color:#cc0000">
+        @ViewBag.Warning
+    </span>
+</div>
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+﻿
+<div class="panel">
+    <p id="changePgraph">
+        @foreach (var item in ViewBag.Message)
+        {
+        <span>@item...&emsp;&emsp;</span>
+        }
+    </p>    
+</div>
+
+<button class="btn btn-custom" id="elid2">@Html.ActionLink("< Back", "Index", "Home")</button>
+
+<script>
+
+    $("document").ready(function () {
+
+        // Define algunos colores
+        var colours = [
+            "#F34235",
+            "#E81D62",
+            "#9B26AF",
+            "#3E50B4",
+            "#00BBD3",
+            "#009587",
+            "#8AC249"
+        ];
+
+        // Extrae los números
+        var seq = $("#changePgraph").html().split(" ");
+
+        // Vacía el elemento
+        $("#changePgraph").empty();
+        
+        // Itera sobre los números
+        $.each(seq, function (i, num) { 
+
+            // Asigna color aleatorio
+            var colourIndex = Math.floor(Math.random() * colours.length);
+
+            $("<span>")
+                .html(num)
+                .css("color", colours[colourIndex])
+                .appendTo($("#changePgraph"));                            
+        });
+
+    });
+</script>
+
+
